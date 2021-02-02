@@ -4,6 +4,8 @@ This is a repo with Home Assistant custom ui card `color-entity-row`.
 
 This card is used inside `entities`. It shows `input_text` value as a color and make it possible to change the value.
 
+![](https://upload.bessarabov.ru/bessarabov/HWlThtvzCV2UZ90wukuRLb7akfw.png)
+
 ## Installation
 
 There are several ways, you can add this card to your Home Assistant.
